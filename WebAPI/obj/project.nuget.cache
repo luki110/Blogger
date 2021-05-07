@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "R9xhHbRKP6mZmuNID1MQNYfItGA3jtdy10JQiIcmNr+qR3vcY0LEp3jF/z49K14Y9I5zHNJq1VBJHtW32LeOdw==",
+  "dgSpecHash": "mQEI0JMBsXdd2H1025F4IXGd/OJMKKZG5N4IWMQpXNc8lSd54zxOR4wbq6VN+9GPrzmpA9eW3UvVgFnChdLJZw==",
   "success": true,
   "projectFilePath": "C:\\Users\\lukas\\source\\repos\\Blogger\\WebAPI\\WebAPI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\lukas\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\lukas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\lukas\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

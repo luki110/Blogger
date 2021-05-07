@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "weupRc4ZOXAdh9CiqIbiWUHxIl2ZNJZ3awHlcqZB0XDQm+Vxr8arfEBcRlXfBZTuG7DFH4/Ny1lwbUqPeM6ROw==",
+  "dgSpecHash": "hTQelLA54w/dVR/gRkEJ6C9QVEehGTg3UvQlN1G5SRFr7f8jevnOcYvHTRWaGL9v/9K65N5n+CRp0prsyTcwng==",
   "success": true,
   "projectFilePath": "C:\\Users\\lukas\\source\\repos\\Blogger\\Infrastructure\\Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\lukas\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\lukas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\lukas\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
