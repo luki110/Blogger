@@ -35,3 +35,4 @@ C:\Users\lukas\source\repos\Blogger\WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dl
 C:\Users\lukas\source\repos\Blogger\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\lukas\source\repos\Blogger\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\lukas\source\repos\Blogger\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lukas\source\repos\Blogger\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
