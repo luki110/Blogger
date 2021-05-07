@@ -1,0 +1,17 @@
+C:\Users\lukas\source\repos\Blogger\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\Users\lukas\source\repos\Blogger\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\lukas\source\repos\Blogger\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\lukas\source\repos\Blogger\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\lukas\source\repos\Blogger\Infrastructure\bin\Debug\net5.0\Application.dll
+C:\Users\lukas\source\repos\Blogger\Infrastructure\bin\Debug\net5.0\Domain.dll
+C:\Users\lukas\source\repos\Blogger\Infrastructure\bin\Debug\net5.0\Application.pdb
+C:\Users\lukas\source\repos\Blogger\Infrastructure\bin\Debug\net5.0\Domain.pdb
+C:\Users\lukas\source\repos\Blogger\Infrastructure\obj\Debug\net5.0\Infrastructure.csprojAssemblyReference.cache
+C:\Users\lukas\source\repos\Blogger\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\source\repos\Blogger\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\lukas\source\repos\Blogger\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Users\lukas\source\repos\Blogger\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\Blogger\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+C:\Users\lukas\source\repos\Blogger\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\Users\lukas\source\repos\Blogger\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\lukas\source\repos\Blogger\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
