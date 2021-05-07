@@ -36,3 +36,4 @@ C:\Users\lukas\source\repos\Blogger\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCo
 C:\Users\lukas\source\repos\Blogger\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\lukas\source\repos\Blogger\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\lukas\source\repos\Blogger\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\lukas\source\repos\Blogger\WebAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
